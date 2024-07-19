@@ -1,0 +1,9 @@
+schema_version = "1.0.0"
+id = "mikuyi"
+version = "1.0.0"
+name = "初音和天依"
+tagline = "初音和天依的配色"
+maintainer = "三夕 <3157568693@qq.com>"
+type = "theme"
+blender_version_min = "4.2.0"
+license = ["SPDX:GPL-2.0-or-later"]
